@@ -3,8 +3,8 @@
     "project": "some project",
     "environment": "some env",
     "comment": "some comment",
-    "reportLink": "",
-    "language": "en",
+    "reportLink": "https://jenkins.autotests.cloud/job/firstremotetestsh/9/",
+    "language": "ru",
     "messenger": "telegram",
     "allureFolder": "build/allure-report/",
     "enableChart": true
